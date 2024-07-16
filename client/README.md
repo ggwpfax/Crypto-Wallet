@@ -43,21 +43,15 @@ This directory contains the smart contract code and related scripts for the cryp
    `cd crypto-wallet`
 2. Install client dependencies:
   `cd client`
-  `npm install`
-  ### or
-  `yarn install`
+  `npm install` or `yarn install`
 3. Install smart contract dependencies:
   `cd ../smart_contract`
-  `npm install`
-  ### or
-  `yarn install`
+  `npm install` or `yarn install`
 
 ## Usage
 1. Run the client-side application:
   `cd client`
-  `npm run dev`
-  ### or
-  `yarn dev`
+  `npm run dev` or `yarn dev`
 2. Deploy the smart contract:
   `cd smart_contract`
   `npx hardhat run scripts/deploy.js --network your-network`
