@@ -41,12 +41,12 @@ This directory contains the smart contract code and related scripts for the cryp
 1. Clone the repository:
    `git clone https://github.com/ggwpfax/crypto-wallet.git`
    `cd crypto-wallet`
-3. Install client dependencies:
+2. Install client dependencies:
   `cd client`
   `npm install`
   ### or
   `yarn install`
-5. Install smart contract dependencies:
+3. Install smart contract dependencies:
   `cd ../smart_contract`
   `npm install`
   ### or
