@@ -44,19 +44,19 @@ This directory contains the smart contract code and related scripts for the cryp
 3. Install client dependencies:
   `cd client`
   `npm install`
-  # or
+  ### or
   `yarn install`
 5. Install smart contract dependencies:
-`cd ../smart_contract`
-`npm install`
-# or
-`yarn install`
+  `cd ../smart_contract`
+  `npm install`
+  ### or
+  `yarn install`
 
 ## Usage
 1. Run the client-side application:
   `cd client`
   `npm run dev`
-  # or
+  ### or
   `yarn dev`
 2. Deploy the smart contract:
   `cd smart_contract`
