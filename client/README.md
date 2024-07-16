@@ -1,4 +1,4 @@
-# Crypto Currency Wallet
+# Ethirum Wallet
 This project is a decentralized cryptocurrency wallet application that enables users to securely store, send, and receive cryptocurrencies. The application is built with a client-side interface and integrates a smart contract deployed on the Ethereum blockchain.
 
 # Project Structure
